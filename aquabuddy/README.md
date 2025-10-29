@@ -46,6 +46,8 @@ OUTPUT
 
 The value of water intake will be displayed as below pop up, telling the user the estimated amount of water intake that needs to be consumed daily. 
 
+Screenshots of the App: https://drive.google.com/drive/folders/1YWa3iAYrPBcaSNNDXV6B3s8jdgMJ9-1l?usp=sharing
+
 _Hana_
 
 HANA SYAKIRAH BINTI HASSAN KHAIRULLAH (299403)
