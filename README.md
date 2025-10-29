@@ -45,7 +45,9 @@ Clicking the ‘Reset’ button will reset all values in the text field, and set
 
 The value of water intake will be displayed as below pop up, telling the user the estimated amount of water intake that needs to be consumed daily. 
 
-When opening the app (Screenshots):
+When opening the app (Screenshots): https://drive.google.com/drive/folders/1YWa3iAYrPBcaSNNDXV6B3s8jdgMJ9-1l
+
+
 
 
 
