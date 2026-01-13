@@ -8,19 +8,23 @@ The application contains two files which are main.dart and mainscreen.dart. The 
 
 Widgets used: Text, TextField, Column, Row, Container
 
-INPUT:
+## INPUT
 
 The user needs to enter these 4 inputs, which are especially from text field and drop down button, and the variables are as below:
 
 Text field: 
+
 Weight (kg)
+
 Age 
 
 DropDown button: 
+
 Activity Level 
+
 Weather Today 
 
-PROCESS:
+## PROCESS
 
 Once the user clicks the Calculate button, it will go through a list of validations. 
 
@@ -42,7 +46,7 @@ The value of water intake in double will be converted to String, rounded up to 2
  
 Clicking the ‘Reset’ button will reset all values in the text field, and set the default value of Activity Level to ‘Low’ and Weather Today to ‘Normal’. 
 
-OUTPUT
+## OUTPUT
 
 The value of water intake will be displayed as below pop up, telling the user the estimated amount of water intake that needs to be consumed daily. 
 
