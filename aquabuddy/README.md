@@ -12,17 +12,9 @@ Widgets used: Text, TextField, Column, Row, Container
 
 The user needs to enter these 4 inputs, which are especially from text field and drop down button, and the variables are as below:
 
-Text field: 
+Text field: Weight (kg), Age 
 
-Weight (kg)
-
-Age 
-
-DropDown button: 
-
-Activity Level 
-
-Weather Today 
+DropDown button: Activity Level, Weather Today 
 
 ## PROCESS
 
